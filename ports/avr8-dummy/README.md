@@ -23,7 +23,9 @@ option to "0" in the mpconfigport.h file in this directory.  Then
 recompile and run the firmware and it will execute the frozentest.py
 file.
 
-RESULT:
-LINK build/firmware.elf
-   text    data     bss     dec     hex filename
- 121428   16400    2296  140124   2235c build/firmware.elf
+#### RESULT LINK build/firmware.elf
+
+
+ |  text  |  data  |   bss  |   dec  |  hex filename |
+ |--------|--------|--------|--------|---------------|
+ | 121428 | 16400  | 2296   | 140124 | 2235c build/firmware.elf
